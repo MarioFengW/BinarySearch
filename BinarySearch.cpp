@@ -27,7 +27,7 @@ int BinarySearch(vector<int> vec, int target) {
 
 int main() {
     vector<int> vec = {2, 5, 8, 12, 16, 23, 38, 45, 56, 67, 78}; 
-    int target = 41;
+    int target = 23;
     
     int index = BinarySearch(vec, target);
     
